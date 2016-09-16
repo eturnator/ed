@@ -5,7 +5,7 @@ title:               Michael Attaleiates
 tagline:             'Eleventh Century Byzantine History'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://eturnator.github.io'
-baseurl:             '/ed/_texts/'
+baseurl:             '/ed/'
 
 # About/contact
 author:
