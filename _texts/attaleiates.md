@@ -1,9 +1,10 @@
 
 ---
-layout: narrative
-title: Attaleiates History
-author: Attaleiates
-source: Ciudad Seva
+ layout: narrative
+ title: The History
+ author: Attaleiates Michael
+ publication-date: 1100
+ source: "Anthony Kaldellis, Dimitris Krallis eds. and trans., The History of Michael Attaleiates (Washington D.C.: Dumbarton Oaks Medieval Library, 2012."
 ---
 
 
