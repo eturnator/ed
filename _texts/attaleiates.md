@@ -4,7 +4,7 @@ layout: narrative
 title: The History
 author: Michael Attaleiates
 publication-date: 1100
-source: "Anthony Kaldellis, Dimitris Krallis eds. and trans., The History of Michael Attaleiates (Washington D.C.: Dumbarton Oaks Medieval Library, 2012"
+source: "Anthony Kaldellis, Dimitris Krallis eds. and trans., The History of Michael Attaleiates (Washington D.C.: Dumbarton Oaks Medieval Library), 2012"
 ---
 
 
